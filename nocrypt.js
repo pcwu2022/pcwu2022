@@ -1,5 +1,5 @@
 function noCrypt(lowerBound=10000, upperBound=10100){
-    document.body.innerHTML = "";
+    document.body.innerHTML = "Below Are Courses That Are Not Encrypted";
 
     function Button(index, text="", parent=document.body){
         this.el = document.createElement("button");
