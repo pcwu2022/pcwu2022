@@ -31,5 +31,4 @@ function noCrypt(lowerBound=10000, upperBound=10100){
         }
         xhr.send();
     }
-}
-noCrypt(20000,20100);   
+} 
