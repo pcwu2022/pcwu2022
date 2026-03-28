@@ -56,7 +56,7 @@ I am always open to discussing new opportunities in technology, engineering, and
 | Platform | Link |
 | :--- | :--- |
 | **Personal Website** | **[pcwu2022.github.io](https://pcwu2022.github.io)** |
-| **LinkedIn** | [linkedin.com/in/pcwu2022](linkedin.com/in/pcwu2022) |
+| **LinkedIn** | [www.linkedin.com/in/pcwu2022](https://www.linkedin.com/in/pcwu2022) |
 | **Email** | [pcwu2022@gmail.com] |
 
 <p align="center">
